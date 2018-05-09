@@ -8,6 +8,8 @@ function forLoop (array) {
     return array;
   }
 }
+
+
 let number;
 
 function whileLoop (n) {
@@ -18,3 +20,8 @@ function whileLoop (n) {
     }
   }
 }
+
+function doWhileLoop (array) {
+  
+}
+
