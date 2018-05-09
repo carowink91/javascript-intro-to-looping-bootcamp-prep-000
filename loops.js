@@ -8,8 +8,8 @@ function forLoop (array) {
     return array;
   }
 }
-
+let number;
 
 function whileLoop (number) {
-  
+  while (nunber > 0) {
 }
