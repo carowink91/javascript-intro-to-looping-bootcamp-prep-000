@@ -13,5 +13,8 @@ let number;
 function whileLoop (n) {
   while (n > 0) {
     console.log(--n);
+    if (i === 0) {
+      return `done`;
+    }
   }
 }
